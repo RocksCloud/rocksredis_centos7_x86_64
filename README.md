@@ -61,13 +61,11 @@ rocksredis_db_dir  /home/data
 gitee
 
 - [centos7 64bit server](https://gitee.com/RocksCloud/rocksredis_centos7_x86_64)
-- [ubuntu14 64bit destop](https://gitee.com/RocksCloud/rocksredis_ubuntu14_64_destop)
-- [ubuntu16 64bit server](https://gitee.com/RocksCloud/rocksredis_ubuntu16_64_server)
-- [freebsd11 64bit release](https://gitee.com/RocksCloud/rocksredis_freebsd_64_release)
+- [ubuntu18 64bit destop](https://gitee.com/RocksCloud/rocksredis_ubuntu18_64_destop)
+
 
 github
 
 - [centos7 64bit server](https://github.com/RocksCloud/rocksredis_centos7_x86_64)
-- [ubuntu14 64bit destop](https://github.com/RocksCloud/rocksredis_ubuntu14_64_destop)
-- [ubuntu16 64bit server](https://github.com/RocksCloud/rocksredis_ubuntu16_64_server)
-- [freebsd11 64bit release](https://github.com/RocksCloud/rocksredis_freebsd_64_release)
+- [ubuntu18 64bit destop](https://github.com/RocksCloud/rocksredis_ubuntu18_64_destop)
+
